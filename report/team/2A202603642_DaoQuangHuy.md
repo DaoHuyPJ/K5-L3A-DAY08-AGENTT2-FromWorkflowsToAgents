@@ -4,7 +4,7 @@
 
 - Họ tên: Đào Quang Huy
 - MSSV: 2A202603642
-- Email:
+- Email: 26ai.huydq7@vinuni.edu.vn
 - GitHub: DaoHuyPJ
 
 ## 2. Phần việc phụ trách

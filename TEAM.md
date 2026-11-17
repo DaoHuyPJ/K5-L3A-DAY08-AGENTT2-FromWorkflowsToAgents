@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Đào Quang Huy | 2A202603642 | | DaoHuyPJ | Toàn bộ (nhóm 1 người): workflow, single, orchestrator + handoff, ledger/crash, evaluation, báo cáo |
+|   1 | Đào Quang Huy | 2A202603642 | 26ai.huydq7@vinuni.edu.vn | DaoHuyPJ | Toàn bộ (nhóm 1 người): workflow, single, orchestrator + handoff, ledger/crash, evaluation, báo cáo |
 
 ## Bảng đóng góp
 
