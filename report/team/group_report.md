@@ -77,7 +77,7 @@ Quyết định kiến trúc và lý do: xem `report/team/decision_adr.md` (ch�
 
 ## 6. Tổng hợp đóng góp
 
-Chi tiết đóng góp của từng thành viên nằm trong `TEAM.md` (bảng đóng góp) và báo cáo cá nhân `report/team/MSSV_HoTen.md`. Nhóm có một thành viên, làm toàn bộ code, test và báo cáo.
+Chi tiết đóng góp của từng thành viên nằm trong `TEAM.md` (bảng đóng góp) và báo cáo cá nhân `report/team/2A202603642_DaoQuangHuy.md`. Nhóm có một thành viên, làm toàn bộ code, test và báo cáo.
 
 ## 7. Hạn chế và hướng cải thiện
 

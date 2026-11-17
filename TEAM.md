@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Đào Quang Huy | MSSV | | DaoHuyPJ | Toàn bộ (nhóm 1 người): workflow, single, orchestrator + handoff, ledger/crash, evaluation, báo cáo |
+|   1 | Đào Quang Huy | 2A202603642 | | DaoHuyPJ | Toàn bộ (nhóm 1 người): workflow, single, orchestrator + handoff, ledger/crash, evaluation, báo cáo |
 
 ## Bảng đóng góp
 
@@ -31,7 +31,7 @@ report/team/MSSV_HoTen.md
 
 Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
-## MSSV_DaoQuangHuy
+## 2A202603642_DaoQuangHuy
 
 ### Phần việc phụ trách
 
@@ -45,4 +45,4 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Bằng chứng
 
-- Commit fcf7238; run id R-workflow-C-002-s55, R-workflow-C-014-s55; crash safety 20/20; chi tiết trong `report/team/MSSV_DaoQuangHuy.md`.
+- Commit fcf7238; run id R-workflow-C-002-s55, R-workflow-C-014-s55; crash safety 20/20; chi tiết trong `report/team/2A202603642_DaoQuangHuy.md`.
