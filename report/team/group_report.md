@@ -6,7 +6,7 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 
 - Tên nhóm: AGENTT2
 - Thành viên: xem `TEAM.md` (nhóm 1 người: Đào Quang Huy)
-- Commit chốt (trùng `report/team/decision_adr.md`): COMMIT_HASH
+- Commit chốt (trùng `report/team/decision_adr.md`): fcf7238
 
 ## 2. Mục tiêu và cách tiếp cận
 

@@ -5,7 +5,7 @@
 - Tên nhóm: AGENTT2
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-AGENTT2-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/DaoHuyPJ/K5-L3A-DAY08-AGENTT2-FromWorkflowsToAgents, nhánh `main`, commit COMMIT_HASH
+- URL repo, nhánh nộp, commit chốt: https://github.com/DaoHuyPJ/K5-L3A-DAY08-AGENTT2-FromWorkflowsToAgents, nhánh `main`, commit fcf7238
 
 ## Thành viên
 
@@ -19,7 +19,7 @@
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| Đào Quang Huy | Toàn bộ: 3 shape, test, benchmark, crash, báo cáo | COMMIT_HASH (3 shape + test + reports) | `src/tests/test_student_shapes_extra.py` (47 test: approval mượn/thu hồi/thiếu, ticket nói dối 5 seed, conflict, crash 3 điểm × 3 shape, secret/PII, handoff allowlist, step cap) |
+| Đào Quang Huy | Toàn bộ: 3 shape, test, benchmark, crash, báo cáo | fcf7238 (3 shape + test + reports) | `src/tests/test_student_shapes_extra.py` (47 test: approval mượn/thu hồi/thiếu, ticket nói dối 5 seed, conflict, crash 3 điểm × 3 shape, secret/PII, handoff allowlist, step cap) |
 
 ## Cá nhân
 
@@ -45,4 +45,4 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Bằng chứng
 
-- Commit COMMIT_HASH; run id R-workflow-C-002-s55, R-workflow-C-014-s55; crash safety 20/20; chi tiết trong `report/team/MSSV_DaoQuangHuy.md`.
+- Commit fcf7238; run id R-workflow-C-002-s55, R-workflow-C-014-s55; crash safety 20/20; chi tiết trong `report/team/MSSV_DaoQuangHuy.md`.

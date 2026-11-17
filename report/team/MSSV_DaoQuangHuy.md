@@ -13,7 +13,7 @@ Nhóm AGENTT2 có một thành viên, nên tôi phụ trách toàn bộ: ba shap
 
 ## 3. Đóng góp cụ thể
 
-- **Commit chính:** COMMIT_HASH (ba shape, test bổ sung, `src/reports/*.json`).
+- **Commit chính:** fcf7238 (ba shape, test bổ sung, `src/reports/*.json`).
 - **Shape A `workflow`:** các bước cố định `get_claim_view` → `lookup_order` → `compute_compensation` → `durability.issue_refund`. Model chỉ có 1 call `draft`.
 - **Shape B `single`:** agent ReAct chạy qua `run_react` (max 8 step, `worker=True`). Agent tự giữ scratchpad vì `run_react` chỉ trả kết quả tool gần nhất. Code, không phải model, gọi host sau vòng lặp.
 - **Shape C `orchestrator`:** `make_handoff` với `facts={}` và ba tool đọc, `run_readonly_investigators`, orchestrator tự tính quote và gọi host. Trace chỉ ghi handoff đã sanitize.
